@@ -1,0 +1,297 @@
+[
+  {
+    "venue":"Arun Jaitley Stadium",
+    "avg_match_runs":324.5,
+    "batting_first_win_pct":43.0
+  },
+  {
+    "venue":"Arun Jaitley Stadium, Delhi",
+    "avg_match_runs":383.2,
+    "batting_first_win_pct":48.0
+  },
+  {
+    "venue":"Barabati Stadium",
+    "avg_match_runs":325.43,
+    "batting_first_win_pct":57.0
+  },
+  {
+    "venue":"Barsapara Cricket Stadium, Guwahati",
+    "avg_match_runs":326.5,
+    "batting_first_win_pct":50.0
+  },
+  {
+    "venue":"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+    "avg_match_runs":331.62,
+    "batting_first_win_pct":33.0
+  },
+  {
+    "venue":"Brabourne Stadium",
+    "avg_match_runs":348.1,
+    "batting_first_win_pct":60.0
+  },
+  {
+    "venue":"Brabourne Stadium, Mumbai",
+    "avg_match_runs":342.59,
+    "batting_first_win_pct":47.0
+  },
+  {
+    "venue":"Buffalo Park",
+    "avg_match_runs":266.33,
+    "batting_first_win_pct":67.0
+  },
+  {
+    "venue":"De Beers Diamond Oval",
+    "avg_match_runs":299.0,
+    "batting_first_win_pct":33.0
+  },
+  {
+    "venue":"Dr DY Patil Sports Academy",
+    "avg_match_runs":282.94,
+    "batting_first_win_pct":41.0
+  },
+  {
+    "venue":"Dr DY Patil Sports Academy, Mumbai",
+    "avg_match_runs":328.65,
+    "batting_first_win_pct":50.0
+  },
+  {
+    "venue":"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+    "avg_match_runs":288.15,
+    "batting_first_win_pct":54.0
+  },
+  {
+    "venue":"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+    "avg_match_runs":387.25,
+    "batting_first_win_pct":50.0
+  },
+  {
+    "venue":"Dubai International Cricket Stadium",
+    "avg_match_runs":314.13,
+    "batting_first_win_pct":39.0
+  },
+  {
+    "venue":"Eden Gardens",
+    "avg_match_runs":307.25,
+    "batting_first_win_pct":44.0
+  },
+  {
+    "venue":"Eden Gardens, Kolkata",
+    "avg_match_runs":359.27,
+    "batting_first_win_pct":50.0
+  },
+  {
+    "venue":"Feroz Shah Kotla",
+    "avg_match_runs":307.02,
+    "batting_first_win_pct":47.0
+  },
+  {
+    "venue":"Green Park",
+    "avg_match_runs":324.5,
+    "batting_first_win_pct":0.0
+  },
+  {
+    "venue":"Himachal Pradesh Cricket Association Stadium",
+    "avg_match_runs":321.89,
+    "batting_first_win_pct":56.0
+  },
+  {
+    "venue":"Himachal Pradesh Cricket Association Stadium, Dharamsala",
+    "avg_match_runs":345.33,
+    "batting_first_win_pct":50.0
+  },
+  {
+    "venue":"Holkar Cricket Stadium",
+    "avg_match_runs":319.11,
+    "batting_first_win_pct":11.0
+  },
+  {
+    "venue":"JSCA International Stadium Complex",
+    "avg_match_runs":293.71,
+    "batting_first_win_pct":29.0
+  },
+  {
+    "venue":"Kingsmead",
+    "avg_match_runs":290.2,
+    "batting_first_win_pct":60.0
+  },
+  {
+    "venue":"M Chinnaswamy Stadium",
+    "avg_match_runs":311.74,
+    "batting_first_win_pct":40.0
+  },
+  {
+    "venue":"M Chinnaswamy Stadium, Bengaluru",
+    "avg_match_runs":371.14,
+    "batting_first_win_pct":50.0
+  },
+  {
+    "venue":"M.Chinnaswamy Stadium",
+    "avg_match_runs":341.8,
+    "batting_first_win_pct":53.0
+  },
+  {
+    "venue":"MA Chidambaram Stadium",
+    "avg_match_runs":284.78,
+    "batting_first_win_pct":44.0
+  },
+  {
+    "venue":"MA Chidambaram Stadium, Chepauk",
+    "avg_match_runs":318.27,
+    "batting_first_win_pct":60.0
+  },
+  {
+    "venue":"MA Chidambaram Stadium, Chepauk, Chennai",
+    "avg_match_runs":322.62,
+    "batting_first_win_pct":43.0
+  },
+  {
+    "venue":"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+    "avg_match_runs":318.4,
+    "batting_first_win_pct":50.0
+  },
+  {
+    "venue":"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
+    "avg_match_runs":401.67,
+    "batting_first_win_pct":33.0
+  },
+  {
+    "venue":"Maharashtra Cricket Association Stadium",
+    "avg_match_runs":318.5,
+    "batting_first_win_pct":36.0
+  },
+  {
+    "venue":"Maharashtra Cricket Association Stadium, Pune",
+    "avg_match_runs":316.0,
+    "batting_first_win_pct":77.0
+  },
+  {
+    "venue":"Narendra Modi Stadium, Ahmedabad",
+    "avg_match_runs":358.41,
+    "batting_first_win_pct":53.0
+  },
+  {
+    "venue":"Nehru Stadium",
+    "avg_match_runs":272.6,
+    "batting_first_win_pct":60.0
+  },
+  {
+    "venue":"New Wanderers Stadium",
+    "avg_match_runs":286.5,
+    "batting_first_win_pct":38.0
+  },
+  {
+    "venue":"Newlands",
+    "avg_match_runs":256.71,
+    "batting_first_win_pct":57.0
+  },
+  {
+    "venue":"OUTsurance Oval",
+    "avg_match_runs":264.5,
+    "batting_first_win_pct":50.0
+  },
+  {
+    "venue":"Punjab Cricket Association IS Bindra Stadium",
+    "avg_match_runs":347.6,
+    "batting_first_win_pct":40.0
+  },
+  {
+    "venue":"Punjab Cricket Association IS Bindra Stadium, Mohali",
+    "avg_match_runs":322.27,
+    "batting_first_win_pct":45.0
+  },
+  {
+    "venue":"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",
+    "avg_match_runs":371.2,
+    "batting_first_win_pct":60.0
+  },
+  {
+    "venue":"Punjab Cricket Association Stadium, Mohali",
+    "avg_match_runs":313.91,
+    "batting_first_win_pct":43.0
+  },
+  {
+    "venue":"Rajiv Gandhi International Stadium",
+    "avg_match_runs":308.73,
+    "batting_first_win_pct":53.0
+  },
+  {
+    "venue":"Rajiv Gandhi International Stadium, Uppal",
+    "avg_match_runs":303.84,
+    "batting_first_win_pct":41.0
+  },
+  {
+    "venue":"Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+    "avg_match_runs":360.19,
+    "batting_first_win_pct":38.0
+  },
+  {
+    "venue":"Sardar Patel Stadium, Motera",
+    "avg_match_runs":313.92,
+    "batting_first_win_pct":42.0
+  },
+  {
+    "venue":"Saurashtra Cricket Association Stadium",
+    "avg_match_runs":333.3,
+    "batting_first_win_pct":20.0
+  },
+  {
+    "venue":"Sawai Mansingh Stadium",
+    "avg_match_runs":303.49,
+    "batting_first_win_pct":32.0
+  },
+  {
+    "venue":"Sawai Mansingh Stadium, Jaipur",
+    "avg_match_runs":358.53,
+    "batting_first_win_pct":47.0
+  },
+  {
+    "venue":"Shaheed Veer Narayan Singh International Stadium",
+    "avg_match_runs":290.17,
+    "batting_first_win_pct":33.0
+  },
+  {
+    "venue":"Sharjah Cricket Stadium",
+    "avg_match_runs":306.54,
+    "batting_first_win_pct":36.0
+  },
+  {
+    "venue":"Sheikh Zayed Stadium",
+    "avg_match_runs":305.41,
+    "batting_first_win_pct":31.0
+  },
+  {
+    "venue":"St George's Park",
+    "avg_match_runs":290.43,
+    "batting_first_win_pct":43.0
+  },
+  {
+    "venue":"Subrata Roy Sahara Stadium",
+    "avg_match_runs":283.0,
+    "batting_first_win_pct":62.0
+  },
+  {
+    "venue":"SuperSport Park",
+    "avg_match_runs":304.42,
+    "batting_first_win_pct":33.0
+  },
+  {
+    "venue":"Vidarbha Cricket Association Stadium, Jamtha",
+    "avg_match_runs":294.0,
+    "batting_first_win_pct":67.0
+  },
+  {
+    "venue":"Wankhede Stadium",
+    "avg_match_runs":320.64,
+    "batting_first_win_pct":47.0
+  },
+  {
+    "venue":"Wankhede Stadium, Mumbai",
+    "avg_match_runs":349.33,
+    "batting_first_win_pct":42.0
+  },
+  {
+    "venue":"Zayed Cricket Stadium, Abu Dhabi",
+    "avg_match_runs":309.38,
+    "batting_first_win_pct":38.0
+  }
+]
