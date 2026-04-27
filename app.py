@@ -248,7 +248,10 @@ def main():
         st.markdown("### ⚙️ Match Settings")
         
         if MODELS_LOADED and venue_summary is not None and len(venue_summary) > 0:
-            venue = st.selectbox("📍 Venue", venue_summary.index.tolist())
+           venue = st.selectbox(
+    " Venue",
+    [v["venue"] for v in venue_summary]
+)
         else:
             venue = st.text_input("📍 Venue", "Wankhede Stadium, Mumbai")
 
@@ -358,13 +361,10 @@ def main():
                     
                     if MODELS_LOADED:
                         predicted_xi, reasons = predict_playing_xi_with_opposition(
-                            opposition_xi=st.session_state.opposition,
-                            venue=venue,
-                            your_squad=st.session_state.squad,
-                            model_spinners=model_spinners,
-                            model_left_bats=model_left_bats,
-                            venue_summary=venue_summary
-                        )
+    opposition_xi=st.session_state.opposition,
+    venue=venue,
+    your_squad=st.session_state.squad
+)
                         
                         if predicted_xi and len(predicted_xi) == 11:
                             st.session_state.predicted_xi = predicted_xi
@@ -552,7 +552,7 @@ def main():
                     time.sleep(0.5)
                     
                     if MODELS_LOADED:
-                        strategy = get_live_bowling_strategy(opp_score, wkts, overs_bowled, target_defend)
+                        strategy = get_live_bowling_strategy(overs_bowled)
                         st.markdown(f"""
                         <div class="live-strategy-box">
                             <h4>{strategy['phase']}</h4>
